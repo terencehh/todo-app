@@ -6,7 +6,8 @@ First please ensure you installed Python3 and Node.js in your local environment.
 ### `Front-End Guide`
 Navigate to frontend folder and run commands
 1. npm install
-2. npm start 
+2. npm start
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
@@ -16,6 +17,7 @@ Navigate to backend folder then run commands
 2. pipenv shell
 3. pipenv install django
 4. python manage.py runserver
+
 Open [http://localhost:8000](http://localhost:8000) to view the back-end server.
 
 After running both front-end and back-end servers, the todo app will be functional. 
